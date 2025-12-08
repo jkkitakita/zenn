@@ -3,7 +3,7 @@ title: "Amazon Q Developer for GitHub で PR を日本語レビューしても�
 emoji: "🍒"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["github", "amazonq", "aws", "コードレビュー", "ai"]
-published: false
+published: true
 ---
 
 :::message
