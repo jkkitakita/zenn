@@ -4,6 +4,7 @@ emoji: "🍒"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["github", "amazonq", "aws", "コードレビュー", "ai"]
 published: true
+publication_name: wisevine
 ---
 
 :::message
